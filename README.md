@@ -190,6 +190,21 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [ ] 25-2: _Deploy -  Docker & Heroku_
 - [ ] 25-3: _[Projeto - Stranger Things]()_
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ##### Bloco 22: Introdução - NoSQL
 
 - [ ] 23-1: _MongoDB - Introdução_
