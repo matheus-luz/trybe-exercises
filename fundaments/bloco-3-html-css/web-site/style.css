@@ -1,0 +1,30 @@
+body {
+  padding: 3%;
+}
+
+.name {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: center;
+}
+
+.minha__foto {
+  float: left;
+  height: 180px;
+  padding: 10px;
+  background-color: darkgray;
+}
+
+.img__container {
+  height: 200px;
+  position: relative;
+}
+
+.description {
+  position: absolute;
+  top: 40%;
+  right: 8%;
+}
+
+ul li:nth-child(odd) {
+  background-color: aqua;
+}
