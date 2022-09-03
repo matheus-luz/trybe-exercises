@@ -4,4 +4,4 @@ let count = 0;
 for(let i = 0; i < numbers.length; i++) {
   count += numbers[i];
 }
-console.log(count);
+console.log(count / numbers.length);
