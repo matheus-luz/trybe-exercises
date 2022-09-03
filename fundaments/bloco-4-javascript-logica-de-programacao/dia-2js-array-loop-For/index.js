@@ -4,4 +4,11 @@ let count = 0;
 for(let i = 0; i < numbers.length; i++) {
   count += numbers[i];
 }
-console.log(count / numbers.length);
+
+const result = count / numbers.length; 
+
+if(result > 20) {
+  console.log('valor maior que 20');
+} else {
+  console.log('valor menor ou igual a 20');
+}
